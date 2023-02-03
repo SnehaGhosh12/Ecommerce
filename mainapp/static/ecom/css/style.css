@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(115, 255, 0);
+}
+
+.blogField{
+    background-color: rgba(43, 0, 0, 0.385);
+    border-radius: 10px;
+    margin: 50px;
+    padding: 30px;
+    color: beige;
+}
+
